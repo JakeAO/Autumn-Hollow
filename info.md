@@ -12,7 +12,6 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 - **[Kids On Bikes Official Site](https://www.huntersentertainment.com/kids-on-bikes)** – Publisher's home page
 - **[Kids On Bikes on DriveThruRPG](https://www.drivethrurpg.com/product/231938/Kids-on-Bikes)** – Digital rulebook
 - **[Character Sheets](https://www.huntersentertainment.com/character-sheets)** – Official downloadable sheets
-- **[Kids On Bikes SRD](https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses03.pdf)** – Community resources
 
 ## Quick Reference
 

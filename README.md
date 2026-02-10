@@ -115,7 +115,7 @@ Same structure, but place files in `_gm/` directory. These will be published at 
 
 ## Deployment
 
-The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` or `master` branch.
+The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
 
 ### GitHub Pages Setup
 
