@@ -21,15 +21,4 @@ Below are session summaries documenting your journey through the loops of Autumn
 
 ---
 
-## Loop Progress Tracker
-
-Use this space to track major milestones across loops:
-
-- **Total Loops Completed:** 0
-- **Major Mysteries Solved:** 0
-- **Significant NPCs Met:** 0
-- **Areas of Town Explored:** 0
-
----
-
 *Summaries are added after each session to track your progress, discoveries, and theories about breaking the loop.*

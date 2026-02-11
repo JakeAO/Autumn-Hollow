@@ -2,7 +2,7 @@
 layout: page
 title: GM Vault
 description: Private GM notes and campaign resources
-permalink: /gm-hollow-8a4f2d/
+permalink: /gm/
 nav_exclude: true
 ---
 
@@ -25,12 +25,5 @@ This page contains GM-only notes, planning documents, and hidden campaign inform
 {% endfor %}
 
 ---
-
-**Quick Links:**
-- [Campaign Planning](#)
-- [Loop Mechanics & Tracking](#)
-- [NPC Secrets & Motivations](#)
-- [Cosmic Horror Revelations](#)
-- [Timeline & Loop Variables](#)
 
 *Remember: This URL is obscured but not secure. Don't post sensitive player information here.*
