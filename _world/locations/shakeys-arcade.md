@@ -5,8 +5,6 @@ topic: Locations
 summary: "A run-down but well cared-for arcade kept alive by Mr. Shakey and the town's regulars."
 ---
 
-# Shakey's Arcade
-
 **Type:** Business / Social Hub
 
 ## Overview

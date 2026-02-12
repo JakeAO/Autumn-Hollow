@@ -5,8 +5,6 @@ topic: Locations
 summary: "The town's only full-service diner, watched over by Old Marlene and her kitchen crew."
 ---
 
-# Daybreak Grill
-
 **Type:** Business / Social Hub
 
 ## Overview

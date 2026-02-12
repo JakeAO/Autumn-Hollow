@@ -5,8 +5,6 @@ topic: Locations
 summary: "Autumn Hollow's K-12 school."
 ---
 
-# Brookside District School
-
 **Type:** Landmark / Public Institution
 
 ## Overview

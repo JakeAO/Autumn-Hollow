@@ -5,8 +5,6 @@ topic: Cheat Sheets
 summary: One-page reference for Kids On Bikes mechanics
 ---
 
-# Kids On Bikes Quick Reference
-
 ## Stats & Dice
 
 Each stat is assigned one die (d4, d6, d8, d10, d12, and optionally d20):

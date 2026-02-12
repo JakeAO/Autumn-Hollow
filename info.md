@@ -9,9 +9,9 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 ## Core Resources
 
-- **[Kids On Bikes Official Site](https://www.huntersentertainment.com/kids-on-bikes)** – Publisher's home page
+- **[Kids On Bikes Official Site](https://www.huntersentertainment.com/kidsonbikesrpg)** – Publisher's home page
 - **[Kids On Bikes on DriveThruRPG](https://www.drivethrurpg.com/product/231938/Kids-on-Bikes)** – Digital rulebook
-- **[Character Sheets](https://www.huntersentertainment.com/character-sheets)** – Official downloadable sheets
+- **[Character Sheets](https://www.huntersentertainment.com/_files/ugd/85013f_a3ca0b82fcfa427eaa93ad062cfd869b.pdf)** – Official downloadable sheets
 
 ## Quick Reference
 

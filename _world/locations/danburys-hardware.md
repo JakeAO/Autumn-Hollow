@@ -5,8 +5,6 @@ topic: Locations
 summary: "The town's small hardware store run by Andy Danbury."
 ---
 
-# Danbury's Hardware
-
 **Type:** Business
 
 ## Overview

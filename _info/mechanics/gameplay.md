@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Core gameplay loop and how to play
 ---
 
-# Playing Kids On Bikes
-
 Kids On Bikes is a collaborative storytelling RPG where you play young characters solving mysteries in your small town.
 
 ## Core Mechanics

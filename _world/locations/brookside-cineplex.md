@@ -5,8 +5,6 @@ topic: Locations
 summary: "A 2-screen movie theatre and prime hangout for the town's teens."
 ---
 
-# Brookside Cineplex
-
 **Type:** Business / Social Hub
 
 ## Overview

@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Managing stress, danger, and lasting harm
 ---
 
-# Adversity Tokens & Consequences
-
 ## Adversity Tokens
 
 Adversity Tokens represent mounting stress, fear, injuries, and complications.

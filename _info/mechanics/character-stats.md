@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Understanding your character's abilities and traits
 ---
 
-# Character Stats & Traits
-
 ## Stats
 
 Every character has six stats, each assigned a different die:
